@@ -1,0 +1,15 @@
+C:\Study\GIT_example\C#\C#_sem1\bin\Debug\net6.0\C#_sem1.exe
+C:\Study\GIT_example\C#\C#_sem1\bin\Debug\net6.0\C#_sem1.deps.json
+C:\Study\GIT_example\C#\C#_sem1\bin\Debug\net6.0\C#_sem1.runtimeconfig.json
+C:\Study\GIT_example\C#\C#_sem1\bin\Debug\net6.0\C#_sem1.dll
+C:\Study\GIT_example\C#\C#_sem1\bin\Debug\net6.0\C#_sem1.pdb
+C:\Study\GIT_example\C#\C#_sem1\obj\Debug\net6.0\C#_sem1.csproj.AssemblyReference.cache
+C:\Study\GIT_example\C#\C#_sem1\obj\Debug\net6.0\C#_sem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\GIT_example\C#\C#_sem1\obj\Debug\net6.0\C#_sem1.AssemblyInfoInputs.cache
+C:\Study\GIT_example\C#\C#_sem1\obj\Debug\net6.0\C#_sem1.AssemblyInfo.cs
+C:\Study\GIT_example\C#\C#_sem1\obj\Debug\net6.0\C#_sem1.csproj.CoreCompileInputs.cache
+C:\Study\GIT_example\C#\C#_sem1\obj\Debug\net6.0\C#_sem1.dll
+C:\Study\GIT_example\C#\C#_sem1\obj\Debug\net6.0\refint\C#_sem1.dll
+C:\Study\GIT_example\C#\C#_sem1\obj\Debug\net6.0\C#_sem1.pdb
+C:\Study\GIT_example\C#\C#_sem1\obj\Debug\net6.0\C#_sem1.genruntimeconfig.cache
+C:\Study\GIT_example\C#\C#_sem1\obj\Debug\net6.0\ref\C#_sem1.dll
